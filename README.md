@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kash1f&label=Profile%20views&color=0e75b6&style=flat" alt="kash1f" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kash1f" alt="kash1f" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://myportfolio-website-iota.vercel.app/](https://myportfolio-website-iota.vercel.app/)
 
@@ -26,3 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kash1f&show_icons=true&locale=en" alt="kash1f" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kash1f&" alt="kash1f" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kash1f" alt="kash1f" /></a> </p>
+
