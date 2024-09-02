@@ -5,9 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kash1f&label=Profile%20views&color=0e75b6&style=flat" alt="kash1f" /> </p>
 
-
-- 👨‍💻 All of my projects are available at [https://myportfolio-website-iota.vercel.app/](https://myportfolio-website-iota.vercel.app/)
-
 - 📫 How to reach me **ahmed.kashif1001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
