@@ -7,7 +7,7 @@
 
 - 🌱 **Currently Exploring:** AI & Machine Learning  
 - 📫 **Reach Me At:** ahmed.kashif1001@gmail.com  
-- 💬 **Ask Me About:** Full-Stack Development, MERN Stack, React Native  
+- 💬 **Ask Me About:** Full-Stack Development, MERN Stack, Python, Springboot 
 - ⚡ **Fun Fact:** I love solving problems and learning new technologies!  
 
 ---
